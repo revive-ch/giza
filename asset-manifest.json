@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/giza/static/css/main.e45f705d.css",
+    "main.js": "/giza/static/js/main.3c3df41a.js",
+    "static/js/787.8afd0638.chunk.js": "/giza/static/js/787.8afd0638.chunk.js",
+    "index.html": "/giza/index.html",
+    "main.e45f705d.css.map": "/giza/static/css/main.e45f705d.css.map",
+    "main.3c3df41a.js.map": "/giza/static/js/main.3c3df41a.js.map",
+    "787.8afd0638.chunk.js.map": "/giza/static/js/787.8afd0638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45f705d.css",
+    "static/js/main.3c3df41a.js"
+  ]
+}
